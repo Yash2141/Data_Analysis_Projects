@@ -1,4 +1,4 @@
-Business Context: This is a furniture brand based out of the EMEA that has seen rapid growth in sales in recent quarters and wants to build a data-driven strategy to drive sales further.
+This is a furniture brand based out of the EMEA that has seen rapid growth in sales in recent quarters and wants to build a data-driven strategy to drive sales further.
 
 Based on the data analysis we would like to know the following:
 
